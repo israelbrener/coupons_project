@@ -1,2 +1,2 @@
 # coupons_project
-stage 1 JBDC
+stage 1 JDBC
